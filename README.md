@@ -3,14 +3,13 @@
 📌 **Project Overview**
 
 This project focuses on analyzing call centre data using Microsoft Excel to understand call volume, call duration, customer satisfaction, and representative performance. The main objective is to convert raw Excel data into meaningful insights by organizing, cleaning, and visualizing the information. The project highlights key Excel skills such as **data cleaning, tabular organization, pivot tables, charts, slicers, and dashboard creation**.
+![Call Centre Dashboard](Screenshot%202025-11-26%20132627.png)
 
----
 
 🧩 **Core Concept**
 
 The core idea behind the project is that every customer call contains valuable information about service quality and business performance. Instead of viewing the data in a raw spreadsheet, Excel is used to structure the information and create an interactive dashboard, making it easier to observe patterns, compare performance, and support decision-making.
 
----
 
 🗂️ **1. Dataset Structure**
 
@@ -27,7 +26,6 @@ The dataset includes important fields such as:
 
 ✅ These fields support both operational and customer-based analysis.
 
----
  🧹 **2. Data Cleaning & Preparation**
 
 Before creating the dashboard, the data was prepared in Excel by:
@@ -38,8 +36,6 @@ Before creating the dashboard, the data was prepared in Excel by:
 * Creating structured tables for easy analysis
 
 ✅ This ensured accuracy and consistency throughout the dashboard.
-
----
 
 📊 **3. Dashboard & Visual Insights**
 
@@ -52,8 +48,6 @@ Excel PivotTables, PivotCharts, and Slicers were used to display:
 * Performance by representative, city, and time
 
 Slicers allow interactive filtering to explore data from different perspectives.
-
----
 
 ✅ **Outcome**
 
